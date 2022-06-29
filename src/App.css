@@ -1,0 +1,84 @@
+body {
+  background-image: url(components/back.png);
+  font-family: "Poppins", sans-serif;
+  margin-top: 1.4rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+
+h3 {
+  letter-spacing: 12px;
+  margin-left: 1rem;
+  color: #7eb2dd;
+}
+
+h1 {
+  font-size: 4rem;
+  color: black;
+}
+
+.space-lg {
+  margin: 5rem;
+}
+
+.button-main {
+  font-size: 2rem;
+  border-radius: 50px;
+  padding-right: 3rem;
+  padding-left: 3rem;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  font-weight: bold;
+  background-color: #f93943;
+  margin-top: 2rem;
+}
+
+.img-main {
+  object-fit: contain;
+  height: 45rem;
+  margin-right: 6rem;
+  border-top-left-radius: 175px;
+  border-bottom-right-radius: 175px;
+}
+
+.text-register {
+  color: #7eb2dd;
+  font-size: 3rem;
+}
+
+.text-label-title {
+  color: black;
+  font-size: 1.2rem;
+}
+
+.button-reg-1 {
+  background-color: #7eb2dd;
+  color: #2d1d1d;
+  border: transparent;
+  font-size: 1.4rem;
+  font-weight: bold;
+  border-radius: 20px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.button-reg-1:hover {
+  background-color: #7eb2dd;
+  color: #2d1d1d;
+  border: 1px solid black;
+}
+.space {
+  margin: 20rem;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.3);
+  border: 1px solid lightgray;
+}
+
+.card-img-bottom {
+  height: 60rem;
+  object-fit: cover;
+}

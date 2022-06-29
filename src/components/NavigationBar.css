@@ -1,0 +1,35 @@
+.navbar-brand {
+  color: #f93943 !important;
+  font-size: 2.76rem;
+  margin-right: 15rem;
+}
+.nav-link {
+  color: #1c1c1c !important;
+  margin-right: 11rem;
+  font-size: 1.2rem;
+}
+
+.nav-link:hover {
+  font-weight: bold;
+}
+
+.logo-img {
+  margin-right: 1.3rem;
+  margin-bottom: 1rem;
+}
+.button-top-right {
+  border-radius: 30px;
+  font-size: 1.2rem;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+  background-color: #f93943;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.button-top-right:hover {
+  color: #bb2d3b;
+  background-color: white;
+  border: 2px solid #bb2d3b;
+  font-weight: bold;
+}
